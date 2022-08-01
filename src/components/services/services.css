@@ -32,3 +32,13 @@
     width: 8rem;
     margin-top: 1rem;
 }
+.cards{
+    position: relative;
+}
+.cards>*{
+    position: absolute;
+}
+.s-blue2{
+    top: 13rem;
+    left:-18rem;
+}
