@@ -2,6 +2,7 @@ import Nabvar from "./components/navbar/Nabvar";
  import './App.css'
 import Intro from "./components/Intro/Intro";
 import Services from "./components/services/Services";
+import Experience from "./components/Experience/Experience";
  
  function App() {
   return (
@@ -9,6 +10,7 @@ import Services from "./components/services/Services";
       <Nabvar />
       <Intro />
       <Services />
+      <Experience />
     </div>
   );
 }
